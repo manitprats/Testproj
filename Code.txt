@@ -3,7 +3,8 @@ Numpy
 Pandas
 Matplotlib
 Seaborn
-
+Pytorch
+Metadata
 
 
 Thank you
