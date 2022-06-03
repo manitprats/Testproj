@@ -3,9 +3,13 @@ Numpy
 Pandas
 Matplotlib
 Seaborn
-
+Pytorch
+Metadata
 
 
 Thank you
 
+
+Done my changes
 Final copy
+
