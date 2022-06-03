@@ -1,3 +1,9 @@
 Welcome
 Numpy
 Pandas
+Matplotlib
+Seaborn
+
+
+
+Thank you
